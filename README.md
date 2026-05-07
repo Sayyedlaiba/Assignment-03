@@ -1,2 +1,2 @@
 # Assignment3
-https://app.netlify.com/projects/assignment3tutedude01/
+https://assignment3tutedude01.netlify.app/
